@@ -1,0 +1,10 @@
+{
+  "id": "custom-random-note",
+  "name": "Custom Random Note",
+  "author": "AlZa2025",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Opens a random note from specified folders.",
+  "isDesktopOnly": false,
+  "main": "main.js"
+}
